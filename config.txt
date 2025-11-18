@@ -1,0 +1,11 @@
+receptor = SARS_PROTEIN.pdbqt
+ligand = Lig.pdbqt
+center_x = 11.958
+center_y = -9.895
+center_z = 8.418
+size_x = 108
+size_y = 126
+size_z = 126
+
+out = out.pdbqt
+log = log.txt
